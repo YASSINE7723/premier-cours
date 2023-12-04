@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+
+}
+h4{
+    text-align: center;
+}
+body{
+    background-color:aqua;
+    
+}
+#game-grid{
+    display: flex;
+    width: 800px;
+    margin:auto ;
+    padding: 20px;
+    background-color:rgb(42, 161, 165);
+    border-radius: 5%;
+    
+}
+div{
+    font-size: 60px;
+    padding: 50px;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin:auto;
+    background-color:rgb(43, 226, 202);
+    border-radius: 5%;
+}
+
+.transparant{
+    color: transparent;
+}
